@@ -1,12 +1,12 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=hi,%20i'm%20anoushka%20nair%20:D&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=cis%20%20@%20upenn%20with%20a%20passion%20for%20building&descAlignY=55&descSize=20&fontStyle=Comfortaa" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,50:D4BBFF,100:B6E5FF&height=200&section=header&text=hi,%20i'm%20anoushka%20nair%20:D&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=cis%20%20@%20upenn%20with%20a%20passion%20for%20building&descAlignY=55&descSize=20&fontStyle=Comfortaa" />
 </div>
 
 <div align="center">
 
-  [![Visits](https://komarev.com/ghpvc/?username=anair56&label=Profile%20Visits&color=FF6B6B&style=for-the-badge)](https://github.com/anair56)
-  [![Repos](https://img.shields.io/badge/Repos-2-4ECDC4?style=for-the-badge&logo=github)](https://github.com/anair56?tab=repositories)
-  [![Commits](https://img.shields.io/badge/Commits%20this%20month-20-45B7D1?style=for-the-badge&logo=git)](https://github.com/anair56)
+  [![Visits](https://komarev.com/ghpvc/?username=anair56&label=Profile%20Visits&color=FFB6D9&style=for-the-badge)](https://github.com/anair56)
+  [![Repos](https://img.shields.io/badge/Repos-2-D4BBFF?style=for-the-badge&logo=github)](https://github.com/anair56?tab=repositories)
+  [![Commits](https://img.shields.io/badge/Commits%20this%20month-20-B6E5FF?style=for-the-badge&logo=git)](https://github.com/anair56)
 
 </div>
 
@@ -32,12 +32,12 @@
 ## my stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anair56&show_icons=true&count_private=true&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anair56&layout=compact&hide_border=true&title_color=FF6B6B&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anair56&show_icons=true&count_private=true&hide_border=true&title_color=FFB6D9&icon_color=D4BBFF&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anair56&layout=compact&hide_border=true&title_color=FFB6D9&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=anair56&theme=dark&hide_border=true&background=0d1117&stroke=FF6B6B&ring=4ECDC4&fire=45B7D1&currStreakLabel=FF6B6B" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=anair56&theme=dark&hide_border=true&background=0d1117&stroke=FFB6D9&ring=D4BBFF&fire=B6E5FF&currStreakLabel=FFB6D9" />
 </div>
 
 ## current projects
@@ -57,7 +57,7 @@ let currentFocus = Focus(
 ## contribution graph
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=anair56&bg_color=0d1117&color=FF6B6B&line=4ECDC4&point=45B7D1&area_color=1c1917&area=true&hide_border=true" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=anair56&bg_color=0d1117&color=FFB6D9&line=D4BBFF&point=B6E5FF&area_color=1c1917&area=true&hide_border=true" />
 </div>
 
 ## connect w/ me!
@@ -71,5 +71,5 @@ let currentFocus = Focus(
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:45B7D1,50:4ECDC4,100:FF6B6B&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B6E5FF,50:D4BBFF,100:FFB6D9&height=100&section=footer" />
 </div>
