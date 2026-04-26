@@ -33,7 +33,7 @@
 
 </div>
 
-## 📊 My GitHub Stats
+## my stats
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anair56&show_icons=true&count_private=true&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=c9d1d9&bg_color=0d1117" />
@@ -44,53 +44,27 @@
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=anair56&theme=dark&hide_border=true&background=0d1117&stroke=FF6B6B&ring=4ECDC4&fire=45B7D1&currStreakLabel=FF6B6B" />
 </div>
 
-## 🎯 Current Focus
+## current projects
 
 <div align="center">
 
 ```swift
 let currentFocus = Focus(
     learning: ["SwiftUI Advanced Patterns", "Core Data", "Swift Concurrency"],
-    building: "CryptoTracker - iOS Portfolio Management App",
+    building: "cryptoanalyze - iOS portfolio management app",
     exploring: ["Machine Learning with CoreML", "ARKit", "WidgetKit"],
-    goal: "Become a proficient iOS developer and launch apps to App Store"
 )
 ```
 
 </div>
 
-## 🌟 Featured Project
-
-<div align="center">
-  <a href="https://github.com/anair56/cryptoanalyze-ai">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anair56&repo=cryptoanalyze-ai&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=c9d1d9" />
-  </a>
-</div>
-
-<div align="center">
-
-### 📱 CryptoTracker
-**A comprehensive iOS app for cryptocurrency portfolio management**
-- 📈 Real-time price tracking with interactive charts
-- 💼 Portfolio management with P&L calculations
-- 🔍 Search and filter hundreds of cryptocurrencies
-- 📊 Built with SwiftUI, Swift Charts, and SwiftData
-
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anair56&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
-## 📈 Contribution Graph
+## contribution graph
 
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=anair56&bg_color=0d1117&color=FF6B6B&line=4ECDC4&point=45B7D1&area_color=1c1917&area=true&hide_border=true" />
 </div>
 
-## 🤝 Connect With Me
+## connect w/ me!
 
 <div align="center">
 
