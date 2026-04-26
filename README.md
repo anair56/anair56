@@ -1,0 +1,107 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Hi,%20I'm%20Anair&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=An%20iOS%20Developer%20in%20making&descAlignY=55&descSize=20" />
+</div>
+
+<div align="center">
+
+  [![Visits](https://komarev.com/ghpvc/?username=anair56&label=Profile%20Visits&color=FF6B6B&style=for-the-badge)](https://github.com/anair56)
+  [![Repos](https://img.shields.io/badge/Repos-2-4ECDC4?style=for-the-badge&logo=github)](https://github.com/anair56?tab=repositories)
+  [![Commits](https://img.shields.io/badge/Commits%20this%20month-20-45B7D1?style=for-the-badge&logo=git)](https://github.com/anair56)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFB6C1&center=true&vCenter=true&multiline=true&width=800&height=120&lines=I'm+a+passionate+iOS+developer+pursuing+my+craft+with+SwiftUI+and+Swift.;I'm+always+willing+to+learn+and+work+across+technologies+and+domains.;I+love+to+explore+new+technologies+and+leverage+them+to+solve+real-life+problems.;Currently+diving+into+mobile+app+development+and+working+on+my+iOS+skills." />
+</div>
+
+## 🚀 Technology Stack
+
+<div align="center">
+
+  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+  ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+  ![SwiftUI](https://img.shields.io/badge/SwiftUI-0B5FAA?style=for-the-badge&logo=swift&logoColor=white)
+  ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+</div>
+
+## 📊 My GitHub Stats
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anair56&show_icons=true&count_private=true&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anair56&layout=compact&hide_border=true&title_color=FF6B6B&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=anair56&theme=dark&hide_border=true&background=0d1117&stroke=FF6B6B&ring=4ECDC4&fire=45B7D1&currStreakLabel=FF6B6B" />
+</div>
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```swift
+let currentFocus = Focus(
+    learning: ["SwiftUI Advanced Patterns", "Core Data", "Swift Concurrency"],
+    building: "CryptoTracker - iOS Portfolio Management App",
+    exploring: ["Machine Learning with CoreML", "ARKit", "WidgetKit"],
+    goal: "Become a proficient iOS developer and launch apps to App Store"
+)
+```
+
+</div>
+
+## 🌟 Featured Project
+
+<div align="center">
+  <a href="https://github.com/anair56/cryptoanalyze-ai">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anair56&repo=cryptoanalyze-ai&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=c9d1d9" />
+  </a>
+</div>
+
+<div align="center">
+
+### 📱 CryptoTracker
+**A comprehensive iOS app for cryptocurrency portfolio management**
+- 📈 Real-time price tracking with interactive charts
+- 💼 Portfolio management with P&L calculations
+- 🔍 Search and filter hundreds of cryptocurrencies
+- 📊 Built with SwiftUI, Swift Charts, and SwiftData
+
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anair56&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=anair56&bg_color=0d1117&color=FF6B6B&line=4ECDC4&point=45B7D1&area_color=1c1917&area=true&hide_border=true" />
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anair56)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:45B7D1,50:4ECDC4,100:FF6B6B&height=100&section=footer" />
+</div>
