@@ -13,10 +13,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFB6C1&center=true&vCenter=true&multiline=true&width=800&height=120&lines=I'm+a+passionate+iOS+developer+pursuing+my+craft+with+SwiftUI+and+Swift.;I'm+always+willing+to+learn+and+work+across+technologies+and+domains.;I+love+to+explore+new+technologies+and+leverage+them+to+solve+real-life+problems.;Currently+diving+into+mobile+app+development+and+working+on+my+iOS+skills." />
-</div>
-
-<div align="center">
 
   ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
